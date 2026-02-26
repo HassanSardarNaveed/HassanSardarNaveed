@@ -1,22 +1,22 @@
-name: Update Badges
+name: Update badges
 
 on:
   schedule:
+    # Runs at 2am UTC daily
     - cron: "0 2 * * *"
   workflow_dispatch:
 
 jobs:
-  update-badges:
-    name: Update README with Credly Badges
+  update-readme:
+    name: Update Readme with badges
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - name: Update Badges
+      - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           CREDLY_USER: "hassansardarnaveed"
-          # This tells the script where to look in your README
+          # This ensures it hits the exact section in your README
           LABEL_START: ""
           LABEL_END: ""
-          NUMBER_LAST_BADGES: 0
+          NUMBER_LAST_BADGES: 36
