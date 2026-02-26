@@ -1,1 +1,23 @@
+name: Update Badges
 
+on:
+  schedule:
+    # Runs daily at 2 AM UTC
+    - cron: "0 2 * * *"
+  workflow_dispatch: # Allows manual runs
+
+jobs:
+  update-badges:
+    name: Update README with Credly Badges
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Update Badges
+        uses: pemtajo/badge-readme@main
+        with:
+          CREDLY_USER: ${{ github.actor }}
+          NUMBER_LAST_BADGES: 0
+          # --- ADDED CUSTOMIZATIONS BELOW ---
+          BADGE_SIZE: "110"             # Adjust this number (in pixels) to make badges larger or smaller
+          NUMBER_REPOS_PER_ROW: "6"     # Adjust this to control how many badges appear in one horizontal line
