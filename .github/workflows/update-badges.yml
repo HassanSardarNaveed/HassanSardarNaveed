@@ -16,9 +16,4 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: "hassansardarnaveed"
-          # These two lines MUST match your README tags exactly
-          LABEL_START: ""
-          LABEL_END: ""
           NUMBER_LAST_BADGES: 0
-          BADGE_SIZE: "110"
-          NUMBER_REPOS_PER_ROW: "6"
