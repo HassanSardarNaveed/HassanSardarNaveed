@@ -19,4 +19,4 @@ jobs:
           # This ensures it hits the exact section in your README
           LABEL_START: ""
           LABEL_END: ""
-          NUMBER_LAST_BADGES: 36
+          NUMBER_LAST_BADGES: 0
