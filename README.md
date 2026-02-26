@@ -1,3 +1,4 @@
+<a name="top"></a>
 <h1 align="center">Hi 👋, I'm Hassan Sardar Naveed</h1>
 <h3 align="center">Senior IT Professional | Cybersecurity • Cloud Security • Secure Full Stack Development</h3>
 
@@ -18,7 +19,7 @@ I specialize in **DevSecOps**—the critical intersection of Security Operations
 ---
 
 ## 🎓 Verified Expertise & Certifications
-*My skills are validated by industry leaders including IBM, Meta, Google, and Cisco.*
+*My professional skills are validated by industry leaders including IBM, Meta, Google, and Cisco. These badges are automatically updated via GitHub Actions.*
 
 
 
@@ -26,11 +27,11 @@ I specialize in **DevSecOps**—the critical intersection of Security Operations
 
 ## 🚀 Core Expertise
 
-- **🔐 Cybersecurity:** SOC Operations, Threat Intelligence, SIEM (Splunk/IBM QRadar), Incident Response.
+- **🔐 Cybersecurity:** SOC Operations, Threat Intelligence, SIEM (Splunk/QRadar), Incident Response.
 - **☁️ Cloud & DevSecOps:** Kubernetes Hardening, Container Security, CI/CD Automation (GitHub Actions).
-- **💻 Secure Engineering:** Full-Stack development with a focus on OWASP Top 10 mitigation and Secure API Design.
+- **💻 Secure Engineering:** Full-Stack development with a focus on OWASP Top 10 and Secure API Design.
 - **📊 Security Analytics:** Data-driven threat detection using SQL, Python, and Tableau.
-- **🤖 AI for Security:** Leveraging Generative AI and Prompt Engineering for security automation and code auditing.
+- **🤖 AI for Security:** Leveraging Generative AI and Prompt Engineering for security automation.
 
 
 
@@ -71,12 +72,22 @@ I specialize in **DevSecOps**—the critical intersection of Security Operations
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HassanSardarNaveed&theme=tokyo-night" />
 </p>
 
+
+
 ---
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [/in/hassan-sardar-naveed](https://linkedin.com/in/hassan-sardar-naveed)
-- **Credly Portfolio:** [Verified Badges](https://www.credly.com/users/hassansardarnaveed)
+- **LinkedIn:** [linkedin.com/in/hassan-sardar-naveed](https://linkedin.com/in/hassan-sardar-naveed)
+- **Credly Portfolio:** [Verified Credentials](https://www.credly.com/users/hassansardarnaveed)
 - **Email:** [hassannaveed@my.uopeople.edu](mailto:hassannaveed@my.uopeople.edu)
+
+---
+
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back_to_Top-000000?style=for-the-badge&logo=icloud&logoColor=white" alt="Back to Top">
+  </a>
+</p>
 
 <h3 align="center">"Bridging 20 Years of Practical Expertise with Academic Rigor."</h3>
