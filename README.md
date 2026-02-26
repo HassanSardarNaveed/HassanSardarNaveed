@@ -21,6 +21,7 @@ I specialize in **DevSecOps**—the critical intersection of Security Operations
 ## 🎓 Verified Expertise & Certifications
 *My professional skills are validated by industry leaders including IBM, Meta, Google, and Cisco. These badges are automatically updated via GitHub Actions.*
 
+---
 To see all the other badges are [here](https://www.credly.com/users/pemtajo/badges)
 
 <!--START_SECTION:badges-->
