@@ -16,4 +16,7 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: "hassansardarnaveed"
+          # This tells the script where to look in your README
+          LABEL_START: ""
+          LABEL_END: ""
           NUMBER_LAST_BADGES: 0
