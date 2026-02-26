@@ -21,4 +21,5 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          CREDLY_USER: "hassansardarnaveed" # Change to lowercase
           NUMBER_LAST_BADGES: 0
