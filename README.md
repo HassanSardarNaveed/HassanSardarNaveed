@@ -25,7 +25,6 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
-
 ---
 
 ## 🚀 Core Expertise
