@@ -9,7 +9,169 @@
 </p>
 
 ---
-
+<details>
+  <summary><b>🏆 Click to view my full gallery of 103 Professional Certifications</b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <td align="center" width="200"><img src="https://images.credly.com/size/80x80/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png" width="80" height="80"><br /><b>IT Support Prof.</b><br /><sub>Google</sub></td>
+      <td align="center" width="200"><img src="https://images.credly.com/size/80x80/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="80" height="80"><br /><b>Cybersecurity Prof.</b><br /><sub>Google</sub></td>
+      <td align="center" width="200"><img src="https://images.credly.com/size/80x80/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" width="80" height="80"><br /><b>Cybersecurity Fund.</b><br /><sub>IBM</sub></td>
+      <td align="center" width="200"><img src="https://images.credly.com/size/80x80/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" width="80" height="80"><br /><b>Intro to IoT</b><br /><sub>Cisco</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="80" height="80"><br /><b>Intro to Cybersecurity</b><br /><sub>Cisco</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width="80" height="80"><br /><b>Cybersecurity Essentials</b><br /><sub>Cisco</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" width="80" height="80"><br /><b>IT Essentials</b><br /><sub>Cisco</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/56774818-e5ff-4dd0-89db-a2a571b0c459/image.png" width="80" height="80"><br /><b>Linux & Shell Scripting</b><br /><sub>IBM</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/79c0fe40-226b-494b-9847-914d1960f925/image.png" width="80" height="80"><br /><b>NoSQL Essentials</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/16c405a6-bce7-4dda-9c85-e298617f00bd/image.png" width="80" height="80"><br /><b>Python for Data Eng.</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/e7192c75-33ae-4c79-890f-fcc6eb0dc653/image.png" width="80" height="80"><br /><b>Relational DB Admin</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/9247e02c-eade-4704-8758-7a9f6ef8e3db/image.png" width="80" height="80"><br /><b>RDBMS Essentials</b><br /><sub>IBM</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/bf69875d-3cc4-4d23-b0d1-97ebf2689a3a/Data_Analysis_and_Visualization_Foundations_Specialization.png" width="80" height="80"><br /><b>Data Analysis Found.</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/f02ecb21-5237-4974-b259-0a8f74675c59/Data_Analyst_Capstone.png" width="80" height="80"><br /><b>Data Analyst Capstone</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/42f7ca3c-6eb3-47d2-a7f3-3b1093ea1b35/image.png" width="80" height="80"><br /><b>Data Analytics Ess.</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/921cd89b-d4be-4e95-a6b7-b9a2390131fa/image.png" width="80" height="80"><br /><b>Data Science Found.</b><br /><sub>IBM</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/46defa53-a922-47bd-94ea-b43488f5cd8a/Data_Science_Methodology_Foundational.png" width="80" height="80"><br /><b>DS Methodology</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" width="80" height="80"><br /><b>DS Orientation</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/6eb08161-0425-4fc0-b66c-a1138dee7953/image.png" width="80" height="80"><br /><b>DS Career Guide</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/16835b69-6ec9-49f2-8eed-60ca27de3466/image.png" width="80" height="80"><br /><b>Dashboard Essentials</b><br /><sub>IBM</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/1dc40257-c856-4e6b-9a92-29be936a9e7c/image.png" width="80" height="80"><br /><b>GenAI for DS</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png" width="80" height="80"><br /><b>ML with Python</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/1447954e-9923-4703-a647-eac80e5f0682/image.png" width="80" height="80"><br /><b>DS Tools V2</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/a34119f2-402f-4443-8555-ccfe2520f1df/GCC_badge_PGM_1000x1000.png" width="80" height="80"><br /><b>Project Mgmt Prof.</b><br /><sub>Google</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/169512d3-cef6-43e3-bec8-e6af2723a076/image.png" width="80" height="80"><br /><b>Applied DS Capstone</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/fa32e912-a95a-478b-926f-3b98b586e55c/Adv_Data_Science_Specialization.png" width="80" height="80"><br /><b>Applied DS V2</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/950038fc-2519-4f79-8827-f71caf0f5095/image.png" width="80" height="80"><br /><b>Data Analysis Python</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/cf50a8a1-22fb-4e81-8103-d894046ff410/image.png" width="80" height="80"><br /><b>Analyst Career Prep</b><br /><sub>IBM</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/f2573aac-d21c-483d-acda-afaa366b4f51/image.png" width="80" height="80"><br /><b>SQL for DS</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/f1d0f26d-8960-402a-a426-a1c1b7f00650/image.png" width="80" height="80"><br /><b>Excel for Analytics</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/8a8e33de-e50b-4a5f-80de-faf8ab3ac1c5/image.png" width="80" height="80"><br /><b>GenAI for Analytics</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/4dd14b9d-2750-43bc-a5f6-27970c0de0fa/image.png" width="80" height="80"><br /><b>Python DS Project</b><br /><sub>IBM</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/505080ad-3731-4b1d-98df-347655a45750/image.png" width="80" height="80"><br /><b>Cloud Cyber Cert.</b><br /><sub>Google</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/cbe961ef-3536-47a1-be43-14c461a3216e/image.png" width="80" height="80"><br /><b>BI Certificate</b><br /><sub>Google</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/f4b9febb-69f6-46d8-8797-1e504ebfe0f8/GCC_badge_UX_1000x1000.png" width="80" height="80"><br /><b>UX Design Prof.</b><br /><sub>Google</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/941fa490-a052-46ae-beff-1ac8e55c117f/image.png" width="80" height="80"><br /><b>Digital Mkt & Ecomm</b><br /><sub>Google</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" width="80" height="80"><br /><b>IT Automation</b><br /><sub>Google</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/eaaf4a45-b93e-41d1-91d3-d331c6210314/image.png" width="80" height="80"><br /><b>Microservices</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/3d10b5f5-387d-4cbf-98ec-a418231fb157/image.png" width="80" height="80"><br /><b>K8s Essentials</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/afaacd18-d4a9-48af-b54c-846615756ec7/image.png" width="80" height="80"><br /><b>GenAI for Devs</b><br /><sub>IBM</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png" width="80" height="80"><br /><b>Adv Data Analytics</b><br /><sub>Google</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/5a53000d-fed4-4877-b17d-d769a50eeb4e/image.png" width="80" height="80"><br /><b>Full Stack Prof.</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/43eabfbc-06d4-4633-9be0-0f56cfbdb607/image.png" width="80" height="80"><br /><b>Node & Express</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" width="80" height="80"><br /><b>Python for DS & AI</b><br /><sub>IBM</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/33ed2910-9750-4613-aa2a-590e845c6edb/image.png" width="80" height="80"><br /><b>Python AI Project</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/1b67aaf9-670d-4c92-8d51-7ac1190f0a42/image.png" width="80" height="80"><br /><b>Software Eng Ess.</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/2d1797d5-1de7-4778-8975-9e5c6ec73a1a/image.png" width="80" height="80"><br /><b>Web Dev Essentials</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" width="80" height="80"><br /><b>AI Essentials V1</b><br /><sub>Google</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="80" height="80"><br /><b>Data Analytics V2</b><br /><sub>Google</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/8647d8b6-2e29-4a88-bfb8-d5ba41ab5716/image.png" width="80" height="80"><br /><b>Dev. Career Prep</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/e747147a-9300-4795-8b38-704a133bed88/Coursera_20Front_20end_20Development_20with_20React_20V2.png" width="80" height="80"><br /><b>React V2</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png" width="80" height="80"><br /><b>Git & GitHub Ess.</b><br /><sub>IBM</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/a9d0fe89-a11c-4266-8940-9eca7762b294/image.png" width="80" height="80"><br /><b>Intro to Cloud</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/4dd82f2c-e7eb-4b64-bb24-f4351f596220/image.png" width="80" height="80"><br /><b>Data Analyst</b><br /><sub>Meta</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/5ff597e8-7637-4f3c-b31c-c0105b1eeba7/image.png" width="80" height="80"><br /><b>ML Spark</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/b9b02a05-d42b-4ff0-959d-23f1b574a3e1/blob" width="80" height="80"><br /><b>DS with R Capstone</b><br /><sub>IBM</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/dea01098-7cb4-4131-91b3-bb397d1e16a1/image.png" width="80" height="80"><br /><b>Big Data Spark</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/aaf2d039-1b58-47f4-9d8c-dc94f686ca2f/image.png" width="80" height="80"><br /><b>Full Stack Assess.</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/0bb5db18-6ae0-4993-9701-0c841d4d6e72/image.png" width="80" height="80"><br /><b>Full Stack Capstone</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/b9f5054b-0e86-426a-8e8c-5e304f256ea8/image.png" width="80" height="80"><br /><b>Generalist SW Eng</b><br /><sub>Meta</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/1dd2e575-2333-45d9-aad5-a8b58b5a1e01/blob" width="80" height="80"><br /><b>Back-End Prof.</b><br /><sub>Meta</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/1f0c674c-0392-4220-96eb-ae19a08528d3/blob" width="80" height="80"><br /><b>Android Prof.</b><br /><sub>Meta</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/b6634fcc-a8d7-429d-bef7-c5319bcc3580/blob" width="80" height="80"><br /><b>Database Eng Prof.</b><br /><sub>Meta</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/99da6577-cbee-4a69-9ee9-0680a44649de/blob" width="80" height="80"><br /><b>Front-End Prof.</b><br /><sub>Meta</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/861df0cf-62e2-42d5-9980-3aed808cc462/blob" width="80" height="80"><br /><b>Adv Data Analytics</b><br /><sub>Google</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/664ba042-e31c-4e1f-8aea-4fc3917774ff/blob" width="80" height="80"><br /><b>BI Prof.</b><br /><sub>Google</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob" width="80" height="80"><br /><b>Cybersecurity Prof.</b><br /><sub>Google</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/d4185c81-d7ad-4220-bf32-46168be588bc/blob" width="80" height="80"><br /><b>Data Analytics Prof.</b><br /><sub>Google</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/b2c0b492-138c-4cd5-8c51-a61a3e742418/blob" width="80" height="80"><br /><b>Mkt & Ecomm Prof.</b><br /><sub>Google</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/1a546b64-d2d1-480a-9144-410112eb8fa0/blob" width="80" height="80"><br /><b>IT Automation Prof.</b><br /><sub>Google</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/ccfd87c6-edad-4138-80cb-d49d1453d6e5/blob" width="80" height="80"><br /><b>IT Support Prof.</b><br /><sub>Google</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/68508264-ec6e-47cf-a8c1-94d86f2573fb/blob" width="80" height="80"><br /><b>Project Mgmt Prof.</b><br /><sub>Google</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/c72688c2-f32f-4f34-862d-a13a7c5f6294/blob" width="80" height="80"><br /><b>Prompting Ess.</b><br /><sub>Google</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/cba75f2c-9c81-48c0-b7cd-70c61c1a815e/blob" width="80" height="80"><br /><b>UX Design Prof.</b><br /><sub>Google</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="80" height="80"><br /><b>Python Ess. 1</b><br /><sub>Cisco</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="80" height="80"><br /><b>Cyber Threat Mgmt</b><br /><sub>Cisco</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" width="80" height="80"><br /><b>Intro to Data Science</b><br /><sub>Cisco</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/e8fe3d67-2967-43d0-bc4a-7a268a37f47b/image.png" width="80" height="80"><br /><b>Linux Essentials</b><br /><sub>Cisco</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/e7509df0-70cc-4641-ad00-112a7c2ee0a4/image.png" width="80" height="80"><br /><b>Data Classification</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/f53c1eb6-d93d-4b9e-ae34-922046f6b15c/image.png" width="80" height="80"><br /><b>Cloud Data Analytics</b><br /><sub>Google</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/17add978-0cea-40e8-8832-9492fc7c260b/Coursera_20Full_20Stack_20Software_20Developer_20Prof_20Cert_20V5.png" width="80" height="80"><br /><b>Full Stack V5</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/a856d3ba-1aa7-4e93-8c15-8d65cec6368d/image.png" width="80" height="80"><br /><b>DevOps Capstone</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/48847c2a-7b9a-4044-b13d-bb175649904b/image.png" width="80" height="80"><br /><b>DevOps Essentials</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/d9fe3b97-3f2f-4b1d-a295-16c92ae855bc/image.png" width="80" height="80"><br /><b>DevOps & Soft Eng</b><br /><sub>IBM</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/63ed678c-4f4d-435d-b3af-e8d0c94627a2/image.png" width="80" height="80"><br /><b>TDD Essentials</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/d1ab3335-73d9-484a-9e81-e526cf94c068/image.png" width="80" height="80"><br /><b>Monitoring/Observ.</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/61733424-430b-4496-bd3c-cb0c7b9dcd67/image.png" width="80" height="80"><br /><b>Agile & Scrum</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/030dff43-c0f1-4328-83d3-31e3124ca068/image.png" width="80" height="80"><br /><b>Computer Vision</b><br /><sub>IBM</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/91de936a-1322-446d-9ea6-949d78c57428/image.png" width="80" height="80"><br /><b>Deep Learning</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/53e4d10c-2d0b-47b4-80c9-36e9bae6881b/image.png" width="80" height="80"><br /><b>Analysis with R</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/2a4db522-b4c2-40fc-a929-3962c11f770a/image.png" width="80" height="80"><br /><b>Viz with R</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/eb8de36c-7062-409c-bb4d-76743cb106c0/image.png" width="80" height="80"><br /><b>Analytics Excel/R</b><br /><sub>IBM</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/a56ca81c-8629-48f8-90af-5672125d2a5b/image.png" width="80" height="80"><br /><b>R Programming</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/9ef500a7-0c68-45c7-b2d2-e7ecc6348c69/image.png" width="80" height="80"><br /><b>SQL for R</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/2f37d46d-d163-4f0e-9852-59cceabe329c/image.png" width="80" height="80"><br /><b>Applied Soft Eng</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/e69ab88a-7424-4077-8005-9c87c115c64b/Coursera_20BI_20Dashboard_20Essentials_20with_20Cognos_20and_20Looker.png" width="80" height="80"><br /><b>BI Dashboards</b><br /><sub>IBM</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/b79040ce-757c-4801-b308-e66dbb2c8528/image.png" width="80" height="80"><br /><b>Eng Career Prep</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/c0b439e5-79d5-498e-abc9-2b71cdf08c34/image.png" width="80" height="80"><br /><b>Data Eng Ess.</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/08f5d4fe-48e9-43c0-8446-95951db14f3f/image.png" width="80" height="80"><br /><b>Data Eng Prof.</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/92a3e7a1-a9c4-4356-ae16-033327c1e387/Coursera_20Data_20Warehouse_20Fundamentals.png" width="80" height="80"><br /><b>Data Warehouse</b><br /><sub>IBM</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/deb56de3-f26b-4b43-bdb5-ffd0ff8023ee/image.png" width="80" height="80"><br /><b>ETL Pipelines</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/573a830a-6495-47e4-878e-b8bbf495a1b3/Coursera_20Generative_20AI_20for_20Data_20Engineering.png" width="80" height="80"><br /><b>GenAI Data Eng</b><br /><sub>IBM</sub></td>
+      <td align="center"><img src="https://images.credly.com/size/80x80/images/5ff597e8-7637-4f3c-b31c-c0105b1eeba7/image.png" width="80" height="80"><br /><b>ML Spark</b><br /><sub>IBM</sub></td>
+      <td align="center">...</td>
+    </tr>
+  </table>
+</details>
+---
 ## 🛡️ Strategic Overview
 
 With over **two decades** of experience in the IT industry, I am a security-focused technologist currently formalizing my extensive field knowledge through a **Bachelor of Science in Computer Science** at the **University of the People, USA**. 
