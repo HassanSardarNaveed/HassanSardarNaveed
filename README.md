@@ -9,6 +9,21 @@
 </p>
 
 ---
+
+## 🛡️ Strategic Overview
+
+With over **two decades** of experience in the IT industry, I am a security-focused technologist currently formalizing my extensive field knowledge through a **Bachelor of Science in Computer Science** at the **University of the People, USA**. 
+
+I specialize in **DevSecOps**—the critical intersection of Security Operations (SOC), Cloud Infrastructure, and Software Engineering. My mission is to build systems that are not only high-performing but resilient by design.
+
+---
+
+## 🎓 Verified Expertise & Certifications
+*My professional skills are validated by industry leaders including IBM, Meta, Google, and Cisco. These badges are automatically updated via GitHub Actions.*
+
+---
+To see all the other badges are [here](https://www.credly.com/users/HASSANSARDARNAVEED/badges)
+
 <details>
   <summary><b>🏆 Click to view my full gallery of 103 Professional Certifications</b></summary>
   <br />
@@ -171,21 +186,6 @@
     </tr>
   </table>
 </details>
----
-## 🛡️ Strategic Overview
-
-With over **two decades** of experience in the IT industry, I am a security-focused technologist currently formalizing my extensive field knowledge through a **Bachelor of Science in Computer Science** at the **University of the People, USA**. 
-
-I specialize in **DevSecOps**—the critical intersection of Security Operations (SOC), Cloud Infrastructure, and Software Engineering. My mission is to build systems that are not only high-performing but resilient by design.
-
----
-
-## 🎓 Verified Expertise & Certifications
-*My professional skills are validated by industry leaders including IBM, Meta, Google, and Cisco. These badges are automatically updated via GitHub Actions.*
-
----
-To see all the other badges are [here](https://www.credly.com/users/HASSANSARDARNAVEED/badges)
-
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/f20bf004-fb60-420d-942f-36e1ea4e1b4f" title="Machine Learning with Apache Spark"><img src="https://images.credly.com/size/80x80/images/5ff597e8-7637-4f3c-b31c-c0105b1eeba7/image.png" alt="Machine Learning with Apache Spark" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/fc01ad97-e831-48d8-98a1-292c385e53dd" title="Data Science with R - Capstone Project"><img src="https://images.credly.com/size/80x80/images/b9b02a05-d42b-4ff0-959d-23f1b574a3e1/blob" alt="Data Science with R - Capstone Project" width="80" height="80"></a>
