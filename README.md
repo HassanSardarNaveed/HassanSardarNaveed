@@ -22,7 +22,7 @@ I specialize in **DevSecOps**—the critical intersection of Security Operations
 *My professional skills are validated by industry leaders including IBM, Meta, Google, and Cisco. These badges are automatically updated via GitHub Actions.*
 
 ---
-To see all the other badges are [here](https://www.credly.com/users/HASSANSARDARNAVEED/badges)
+Details of my all badges are [here](https://www.credly.com/users/HASSANSARDARNAVEED/badges)
 
 <details>
   <summary><b>🏆 Click to view my full gallery of 103 Professional Certifications</b></summary>
